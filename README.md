@@ -17,10 +17,9 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107c41,100:33c481&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Project%20Overview&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Project Overview"/>
 </div>
 
-## 📌 Project Overview
 
 **Fundamental Booster** is a hands-on Excel project (`pr1.xlsx`) that applies **logical, lookup, statistical, text and date functions** to three practical datasets — **Students, Sales and Employees**. Each sheet answers real business-style questions such as *"Who are the top students?"*, *"What are the total sales for a region?"* and *"What is an employee's salary?"* using clean, reusable formulas.
 
@@ -29,10 +28,9 @@ It's a great practice project for building strong **Excel fundamentals**: refere
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107c41,100:33c481&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Workbook%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Workbook Structure"/>
 </div>
 
-## 🗂️ Workbook Structure
 
 | # | Sheet | Records | What it covers |
 |:-:|---|:-:|---|
@@ -76,10 +74,9 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107c41,100:33c481&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Features%20%2F%20Operations%20Covered&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Features / Operations Covered"/>
 </div>
 
-## ⚙️ Features / Operations Covered
 
 <table>
 <tr>
@@ -145,10 +142,9 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107c41,100:33c481&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Tech Stack"/>
 </div>
 
-## 🛠️ Tech Stack
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tables](https://img.shields.io/badge/Excel_Tables-107c41?style=flat-square)
@@ -159,7 +155,10 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 
 <br/>
 
-## ▶️ How to Run
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=How%20to%20Run&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="How to Run"/>
+</div>
+
 
 1. Download or clone this repository.
 2. Open `pr1.xlsx` in Microsoft Excel (2021 / Microsoft 365 recommended).
@@ -170,10 +169,9 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107c41,100:33c481&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Sample%20Insights%20You%20Can%20Derive&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Sample Insights You Can Derive"/>
 </div>
 
-## 📊 Sample Insights You Can Derive
 
 - 🏅 Top-performing students and their grades
 - 📈 Grade distribution across 20 students
@@ -183,7 +181,10 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 
 <br/>
 
-## 📁 File Structure
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=File%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="File Structure"/>
+</div>
+
 
 ```
 📦 Fundamental-booster
@@ -191,7 +192,10 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
  ┗ 📄 README.md     # Project documentation
 ```
 
-## 🚀 Future Improvements
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Future%20Improvements&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Future Improvements"/>
+</div>
+
 
 - [ ] Add charts and a summary dashboard for each sheet
 - [ ] Add conditional formatting (grade colours, discount highlights)
@@ -202,7 +206,9 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 
 <div align="center">
 
-### 👤 Author
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Author&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Author"/>
+</div>
 
 **Bhavika Thadani**
 📍 Ahmedabad
