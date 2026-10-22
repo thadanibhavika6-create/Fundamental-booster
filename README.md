@@ -1,4 +1,3 @@
-# Fundamental-booster
 
 <div align="center">
 
