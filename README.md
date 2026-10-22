@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2a,50:107c41,100:33c481&height=260&section=header&text=FUNDAMENTAL%20BOOSTER&fontSize=50&fontColor=ffffff&stroke=0b3d2a&strokeWidth=1&animation=fadeIn&fontAlignY=36&desc=Excel%20Formulas%20%7C%20Lookups%20%7C%20Analytics%20%7C%20Practice%20Project&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2a,50:107c41,100:33c481&height=260&section=header&text=FUNDAMENTAL%20BOOSTER&fontSize=50&fontColor=ffffff&stroke=0b3d2a&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=Excel%20Formulas%20%7C%20Lookups%20%7C%20Analytics%20%7C%20Practice%20Project&descAlignY=58&descSize=19" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Master+Excel+formulas+step+by+step;Logical+%7C+Lookup+%7C+Statistical+%7C+Text+%7C+Date+functions;3+Sheets+%E2%80%A2+60+Records+%E2%80%A2+20%2B+Functions;Students+%E2%86%92+Sales+%E2%86%92+Employees+datasets;Beginner-friendly+Excel+practice+project&font=Fira+Code&center=true&width=700&height=45&color=107C41&vCenter=true&size=22&pause=1200"/>
 
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Project%20Overview&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Project Overview"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Project%20Overview&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Project Overview"/>
 </div>
 
 
@@ -28,7 +28,7 @@ It's a great practice project for building strong **Excel fundamentals**: refere
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Workbook%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Workbook Structure"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Workbook%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Workbook Structure"/>
 </div>
 
 
@@ -74,7 +74,7 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Features%20%2F%20Operations%20Covered&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Features / Operations Covered"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Features%20%2F%20Operations%20Covered&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Features / Operations Covered"/>
 </div>
 
 
@@ -142,7 +142,7 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Tech Stack"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Tech Stack"/>
 </div>
 
 
@@ -156,7 +156,7 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=How%20to%20Run&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="How to Run"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=How%20to%20Run&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="How to Run"/>
 </div>
 
 
@@ -169,7 +169,7 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Sample%20Insights%20You%20Can%20Derive&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Sample Insights You Can Derive"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Sample%20Insights%20You%20Can%20Derive&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Sample Insights You Can Derive"/>
 </div>
 
 
@@ -182,7 +182,7 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=File%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="File Structure"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=File%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="File Structure"/>
 </div>
 
 
@@ -193,7 +193,7 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Future%20Improvements&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Future Improvements"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Future%20Improvements&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Future Improvements"/>
 </div>
 
 
@@ -207,7 +207,7 @@ All data lives in **Excel Tables** (`Table1`, `Table4`, `Table5`), so formulas s
 <div align="center">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:107c41,100:33c481&height=70&section=header&text=Author&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Author"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Author&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Author"/>
 </div>
 
 **Bhavika Thadani**
