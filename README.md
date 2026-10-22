@@ -25,6 +25,8 @@
 
 It's a great practice project for building strong **Excel fundamentals**: references, nested `IF`, lookups, conditional aggregates and text/date handling.
 
+<img width="2880" height="3864" alt="Dashboard@2x (1)" src="https://github.com/user-attachments/assets/f5e50629-228f-4c7f-b3c6-e51bae0afc51" />
+
 <br/>
 
 <div align="center">
