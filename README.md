@@ -24,7 +24,7 @@
 
 It's a great practice project for building strong **Excel fundamentals**: references, nested `IF`, lookups, conditional aggregates and text/date handling.
 
-<img width="2880" height="3864" alt="Dashboard@2x (1)" src="https://github.com/user-attachments/assets/f5e50629-228f-4c7f-b3c6-e51bae0afc51" />
+<img width="2880" height="3640" alt="Fundamental_Booster_Dashboard" src="https://github.com/user-attachments/assets/97122fab-a497-481b-b622-8e4e1dcac64b" />
 
 <br/>
 
