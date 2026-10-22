@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="assets/header.svg" alt="Excel Data Analysis & Formulas Project" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2a,50:107c41,100:33c481&height=260&section=header&text=Fundamental%20Booster&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Excel%20Practice%20Project%20%7C%20Formulas%20%26%20Data%20Analysis&descSize=20&descAlignY=60" alt="Fundamental Booster" width="100%"/>
 
-<img src="assets/typing.svg" alt="Typing animation" width="80%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=107C41&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Analyse+data+with+powerful+Excel+formulas;VLOOKUP+%7C+XLOOKUP+%7C+INDEX+%7C+MATCH;SUMIFS+%7C+COUNTIF+%7C+AVERAGEIFS+%7C+IF;3+sheets+%7C+60+records+%7C+20%2B+functions" alt="Typing animation" width="80%"/>
 
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Worksheets-3-blue?style=for-the-badge)
@@ -14,13 +14,13 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 📌 Overview
 
-This project is a hands-on Excel workbook (`pr1.xlsx`) that applies **logical, lookup, statistical, text and date functions** to three practical datasets. Each sheet solves business-style questions such as *"Who are the top students?"*, *"What are the total sales for a region?"* and *"What is an employee's salary?"* using clean, reusable formulas.
+**Fundamental Booster** is a hands-on Excel project (`pr1.xlsx`) that applies **logical, lookup, statistical, text and date functions** to three practical datasets. Each sheet solves business-style questions such as *"Who are the top students?"*, *"What are the total sales for a region?"* and *"What is an employee's salary?"* using clean, reusable formulas.
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 🗂️ Workbook Structure
 
@@ -32,7 +32,7 @@ This project is a hands-on Excel workbook (`pr1.xlsx`) that applies **logical, l
 
 All data is stored in **Excel Tables** (`Table1`, `Table4`, `Table5`) so formulas stay readable and expand automatically.
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 🎓 Sheet 1 — Students Grade
 
@@ -66,7 +66,7 @@ All data is stored in **Excel Tables** (`Table1`, `Table4`, `Table5`) so formula
 | 60 – 69 | D |
 | Below 60 | F |
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 🛒 Sheet 2 — Sales Data
 
@@ -93,7 +93,7 @@ A sale is marked **Eligible** when the amount is **7,500 or more**.
 | Find salesperson by sales amount | `XLOOKUP` | **Person 12** |
 | Position of a product in the list | `XMATCH` | **3** |
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 👥 Sheet 3 — Employee Data
 
@@ -110,7 +110,7 @@ A sale is marked **Eligible** when the amount is **7,500 or more**.
 | Lookup on unsorted data | `=XLOOKUP("Employee 6",B2:B21,D2:D21)` |
 | Dynamic range reference | `=SUM(INDIRECT("E2:E21"))` |
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 🧰 Excel Skills Demonstrated
 
@@ -123,7 +123,7 @@ A sale is marked **Eligible** when the amount is **7,500 or more**.
 | 📅 **Date & Time** | `TODAY` · `DATEDIF` · `MONTH` |
 | 🧩 **Advanced** | `INDIRECT` · Structured Table references · Absolute / relative references |
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 🚀 How to Use
 
@@ -135,22 +135,17 @@ A sale is marked **Eligible** when the amount is **7,500 or more**.
 
 > 💡 **Note:** `XLOOKUP` and `XMATCH` need Excel 2021 or Microsoft 365. Older versions can use `INDEX` + `MATCH` instead.
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 📁 Project Files
 
 ```
-📦 Excel-Project
+📦 Fundamental-booster
  ┣ 📄 pr1.xlsx      → Main workbook (3 sheets)
- ┣ 📄 README.md     → Project documentation
- ┗ 📁 assets
-    ┣ header.svg    → Animated wave header
-    ┣ typing.svg    → Typing text animation
-    ┣ divider.svg   → Moving line divider
-    ┗ footer.svg    → Animated footer
+ ┗ 📄 README.md     → Project documentation
 ```
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 🔮 Future Improvements
 
@@ -159,17 +154,17 @@ A sale is marked **Eligible** when the amount is **7,500 or more**.
 - 🔽 Add dropdown lists (data validation) for region, product and department
 - 🧮 Build Pivot Tables for region-wise and department-wise reports
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 ## 👨‍💻 Author
 
 **Your Name**
 📧 your.email@example.com · 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2a,50:21a366,100:0b3d2a&height=4" width="100%" alt="divider"/>
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2a,50:107c41,100:33c481&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="Thanks for visiting" width="100%"/>
 
 </div>
